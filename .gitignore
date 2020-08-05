@@ -2,4 +2,5 @@
 tools
 *_old
 data/p1ch2/mnist/MNIST/
+data-unversioned/
 .ipynb_checkpoints/
